@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra",
+    "familia": "cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de cuerda pulsada con seis cuerdas.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Piano",
+    "familia": "cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de teclado cuyas cuerdas son golpeadas por martillos.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Flauta",
+    "familia": "viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento que produce sonido al hacer pasar aire por su interior.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Batería",
+    "familia": "percusión",
+    "origen": "Estados Unidos",
+    "descripcion": "Conjunto de instrumentos de percusión utilizados para crear ritmos.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Violín",
+    "familia": "cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuerda frotada que se toca con un arco.",
+    "disponible": true
+  }
+]
